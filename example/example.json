@@ -1,0 +1,59 @@
+{
+  "_id": "165fbca4-baa9-4bd7-a7ec-7f8d1cbe0a89",
+  "version": "1",
+  "info": {
+    "id": "165fbca4-baa9-4bd7-a7ec-7f8d1cbe0a89",
+    "name": "checkmk",
+    "version": "2023.01.06",
+    "release": 1,
+    "homepage": "https://checkmk.com/",
+    "vendor": {
+      "name": "checkmk.com",
+      "homepage": "https://checkmk.com/"
+    },
+    "packager": {
+      "name": "tribe29",
+      "homepage": "https://tribe29.com/",
+      "uri": "uuid:714f0a7b-85d6-4eb8-b68e-40f9acbb3103"
+    }
+  },
+  "settings": {
+    "group": [
+      {
+        "name": "Administrator's preferences",
+        "setting": [
+          {
+            "id": "CMK_PASSWORD",
+            "type": "password",
+            "min-length": "1",
+            "name": "Password"
+          }
+        ]
+      }
+    ]
+  },
+  "presentation": {
+    "summary": "Content management system and Web application framework",
+    "description": "Joomla! is a powerful open source content management system. It is used for managing \n\t\t\tsimple Web sites and complex corporate applications. Joomla! is easy to install, simple \n\t\t\tto manage, and reliable. Once Joomla! is installed and running, it is simple for even \n\t\t\tnon-technical users to add or edit content, update images, and to manage critical data. \n\t\t\tAnybody with basic word processing skills can easily learn to manage a Joomla! site.",
+    "icon": {
+       "path": ""
+    },
+    "screenshot": [
+      {
+        "path": "",
+        "description": "Main screenshot."
+      },
+      {
+        "path": "",
+        "description": "Admin screenshot."
+      }
+     ],
+     "categories": {
+       "category": "Web/Content management"
+     },
+     "languages": {
+       "language": "en",
+       "language": "en"
+     }
+  }
+}
